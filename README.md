@@ -52,8 +52,8 @@ python main.py
 ### Quick Start
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/fantasy-stock-market-game.git
-cd fantasy-stock-market-game
+git clone https://github.com/robinsambuis101/Programming-fantasy-stock-market-game.git
+cd Programming-fantasy-stock-market-game
 
 # 2. Install dependencies
 pip install -r requirements.txt
